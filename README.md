@@ -20,6 +20,7 @@ python train_mip.py
 ``` 
 
 Inference links and checkpoints will be shared soon.
+<!--https://drive.google.com/file/d/1V9JRRli1D_sYKnoNDRPpPgNx7E2K4W1Q/view?usp=sharing-->
 
 ## Citation
 If you find this dataset helpful, please cite:
