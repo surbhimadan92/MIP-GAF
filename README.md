@@ -11,11 +11,15 @@ conda env create -f environment.yml
 ``` 
 
 ## Training
+
+Download stage 2 weights from [TRIS](https://github.com/fawnliu/TRIS) Repository
+
 Train using the command:
 ```bash
 python train_mip.py
 ``` 
 
+Inference links and checkpoints will be shared soon.
 
 ## Citation
 If you find this dataset helpful, please cite:
