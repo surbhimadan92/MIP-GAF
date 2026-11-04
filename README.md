@@ -35,7 +35,7 @@ If you find this dataset helpful, please cite:
 }
 ```
 
-For any enquiry please write to "surbhi.19csz0011@iitrpr.ac.in"
+For any enquiry please write to "er.surbhimadan.2013@gmail.com"/"surbhi.19csz0011@iitrpr.ac.in"
 
 ## Acknowledgement
 Much of this code has been borrowed from [TRIS](https://github.com/fawnliu/TRIS)
